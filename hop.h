@@ -2,7 +2,6 @@
 #define hop_h
 
 #include <iostream>
-#include <cmath>
 #include "out.h"
 
 #define ull unsigned long long
