@@ -10,11 +10,6 @@
 #define ZERO_DIAGONAL 0
 
 template <typename T>
-bool sameSign(T x, T y){
-    return (!(x < 0)) ^ (y < 0);
-}
-
-template <typename T>
 struct Neuron{
     // bias is equal to 0
     T value;
