@@ -3,7 +3,6 @@
 
 #include <iostream>
 #include <cmath>
-#include <random>
 #include "out.h"
 
 #define ull unsigned long long
